@@ -13,5 +13,6 @@ The data are included in `mm.dta`. Several of the programs produce additional da
 Note that the code requires installing the Stata package `randcoef` as discussed in Barriga Cabanillas et al. (2018) and `tuple`.
 
 ## References
-Barriga Cabanillas, O., J. D. Michler, A. Michuda, and E. Tjernström (2018). Fitting and interpreting correlated random-coecient models using Stata. Stata Journal 18 (1), 159-73.
+Barriga Cabanillas, O., J. D. Michler, A. Michuda, and E. Tjernström (2018). Fitting and interpreting correlated random-coefficient models using Stata. Stata Journal 18 (1), 159-73.
+
 Michler, J.D, E. Tjernström, S. Verkaart, and K. Mausch (2019). Money matters: The role of yields and profits in agricultural technology adoption. American Journal of Agricultural Economics 101 (3): 710-31.
